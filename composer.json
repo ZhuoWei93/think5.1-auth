@@ -17,6 +17,9 @@
     "require": {
         "php": ">=5.6.0"
     },
+    "suggests":{
+        "Thinkphp" : ">=5.1.X"
+    1},
     "autoload": {
         "psr-4": {
             "think\\auth\\": "src/"
