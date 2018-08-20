@@ -1,10 +1,10 @@
 {
     "name": "zhuojiawei/think5.1-auth",
-    "description": "auth and thinkphp for v5.1 Package",
+    "description": "Thinkphp5.1 auth",
     "homepage": "https://github.com/zhuojiawei/think5.1-auth.git",
     "license": "Apache-2.0",
     "minimum-stability": "stable",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "authors": [
         {
             "name": "suriski",
